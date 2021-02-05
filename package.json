@@ -1,0 +1,23 @@
+{
+  "name": "@marufbd007/nodetest",
+  "version": "1.0.1",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarufBD007/nodetest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarufBD007/nodetest/issues"
+  },
+  "homepage": "https://github.com/MarufBD007/nodetest#readme",
+  "description": ""
+}
